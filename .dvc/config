@@ -1,0 +1,5 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = E:\2017.Study\Tenx\Week-3\Insurance\W3.Insurance-Planning.AIM2\local_storage
+
