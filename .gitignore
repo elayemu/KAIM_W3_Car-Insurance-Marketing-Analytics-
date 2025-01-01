@@ -1,0 +1,7 @@
+﻿# Ignore data folder
+data/
+
+# Other common ignores
+*.pyc
+__pycache__/
+.env
